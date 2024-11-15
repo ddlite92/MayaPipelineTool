@@ -1,1 +1,0 @@
-"%DEADLINE_PATH%\deadlinecommand" %~dp0\job.job %~dp0\plugin.job

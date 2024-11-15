@@ -1,0 +1,1 @@
+"%DEADLINE_PATH%\deadlinecommand" %~dp0\maya_job_info.job %~dp0\maya_plugin_info.job

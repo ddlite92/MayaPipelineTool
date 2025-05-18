@@ -1,0 +1,1 @@
+FBXExport -f fx_char.fbx -s

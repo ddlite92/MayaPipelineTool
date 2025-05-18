@@ -1,0 +1,26 @@
+{
+    "Jobs": [
+                {
+                    "JobInfoFilePath":"/path/to/job_1_info_file.txt",
+                    "PluginInfoFilePath":"/path/to/job_1_plugin_file.txt",
+                    "JobDependencies":null
+                },
+                {
+                "JobInfoFilePath":"/path/to/job_2_info_file.txt",
+                "PluginInfoFilePath":"/path/to/job_2_plugin_file.txt",
+                    "JobDependencies":[
+                        "index://0",
+                        "jobId://6140bf0ddc2a9267443e5778",
+                        "jobId://6140be77841dc62b94d05cc2"
+                    ]
+                },
+                {
+                "JobInfoFilePath":"/path/to/job_3_info_file.txt",
+                "PluginInfoFilePath":"/path/to/job_3_plugin_file.txt",
+                    "JobDependencies":[
+                        "index://0",
+                        "index://1"
+                    ]
+                }
+            ]
+}

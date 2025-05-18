@@ -1,0 +1,14 @@
+Scene File= V:\PAPA\Work\Render\PAPA_Movie\REEL_03\1. EXT. JUNGLE DOME - MOMENTS LATER\PAPA_Chapter_03_01_Sh015\PAPA_Chapter_03_01_Sh015_RENDER.ma
+Renderer=Redshift 
+Version=2023
+Build=None
+ProjectPath=V:\PAPA\Work\Render\PAPA_Movie\REEL_03
+StrictErrorChecking=False
+UseLegacyRenderLayers=1
+RenderSetupIncludeLights=1
+LocalRendering=False
+MaxProcessors=0
+FrameNumberOffset=0
+OutputFilePath=V:\PAPA\Output\3_OutputRender\PAPA_Movie\REEL_03\1. EXT. JUNGLE DOME - MOMENTS LATER\PAPA_Chapter_03_01_Sh015 
+CommandLineOptions=
+IgnoreError211=False

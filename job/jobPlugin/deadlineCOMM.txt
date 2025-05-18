@@ -1,0 +1,5 @@
+'''
+cd "C:\Program Files\Thinkbox\Deadline10\bin"
+deadlinecommand SubmitBackgroundJob "C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\test_sh15.job" "C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\test_sh15.plugin"
+.\deadlinecommand C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\args.txt
+'''

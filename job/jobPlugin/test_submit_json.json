@@ -1,0 +1,9 @@
+{
+    "Jobs": [
+                {
+                    "JobInfoFilePath":"C:/Users/MON177/Pictures/SS_Dd/Script/ScriptPY/Monsta/Maya/deadline/submission/Maya/Scripts/test_sh15_job.txt",
+                    "PluginInfoFilePath":"C:/Users/MON177/Pictures/SS_Dd/Script/ScriptPY/Monsta/Maya/deadline/submission/Maya/Scripts/test_sh15_plugin.txt",
+                    "JobDependencies":null
+                }
+            ]
+}

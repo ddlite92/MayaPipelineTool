@@ -1,0 +1,15 @@
+Name=PAPA_Chapter_03_01_Sh015
+Comment=CH03_SC01
+Plugin=MayaBatch
+InitialStatus=Suspended
+Priority=71
+TaskTimeoutMinutes=0
+ConcurrentTasks=1
+LimitGroups=
+Pool=
+SecondaryPool=
+Group=maya_2023
+Department=RENDER
+ChunkSize=5
+Frames=101-105
+

@@ -1,0 +1,24 @@
+{
+    "Jobs": [
+                {
+                    "JobInfoFilePath":"C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\test_sh15_job.txt",
+                    "PluginInfoFilePath":"C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\test_sh15_plugin.txt",
+                    "JobDependencies":null
+                },
+                {
+                    "JobInfoFilePath":"C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\test_sh16_job.txt",
+                    "PluginInfoFilePath":"C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\test_sh16_plugin.txt",
+                    "JobDependencies":null
+                },
+                {
+                    "JobInfoFilePath":"C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\test_sh14a_job.txt",
+                    "PluginInfoFilePath":"C:\Users\MON177\Pictures\SS_Dd\Script\ScriptPY\Monsta\Maya\deadline\submission\Maya\Scripts\test_sh14a_plugin.txt",
+                    "JobDependencies":null
+                },
+                {
+                    "JobInfoFilePath":"C:/Users/MON177/Pictures/SS_Dd/Script/ScriptPY/Monsta/Maya/deadline/submission/Maya/Scripts/test_sh15_job.txt",
+                    "PluginInfoFilePath":"C:/Users/MON177/Pictures/SS_Dd/Script/ScriptPY/Monsta/Maya/deadline/submission/Maya/Scripts/test_sh15_plugin.txt",
+                    "JobDependencies":null
+                }
+            ]
+}
